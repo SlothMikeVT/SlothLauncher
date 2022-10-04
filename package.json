@@ -1,8 +1,8 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "name": "slothlauncher",
+  "version": "0.0.0-beta",
+  "productName": "Sloth Launcher",
+  "description": "Launcher de prueba",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/dscalzi/SlothLauncher.git"
   }
 }

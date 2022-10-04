@@ -1,48 +1,48 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Editar"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "* Valor invalido",
+                "requiredValue": "* Requerido",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
+                    "title": "Error Durante el Inicio de Sesion:<br>Invalid Credentials",
+                    "desc": "Has intentado iniciar sesion con una cuenta migrada. Intenta de nuevo usando usando el correo como nombre de usuario."
                 },
                 "invalidCredentials": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Error Durante el Inicio de Sesion:<br>Invalid Credentials",
+                    "desc": "El correo o la contraseña que has introducido son incorrectas. Por favor intenta de nuevo."
                 },
                 "rateLimit": {
-                    "title": "Error During Login:<br>Too Many Attempts",
-                    "desc": "There have been too many login attempts with this account recently. Please try again later."
+                    "title": "Error Durante el Inicio de Sesion:<br>Too Many Attempts",
+                    "desc": "Has hecho muchos intentos de inicio de sesion en poco tiempo. Por favor intentalo de nuevo más tarde."
                 },
                 "noInternet": {
-                    "title": "Error During Login:<br>No Internet Connection",
-                    "desc": "You must be connected to the internet in order to login. Please connect and try again."
+                    "title": "Error Durante el Inicio de Sesion:<br>No Internet Connection",
+                    "desc": "Debes estar conectado para iniciar sesion. Por favor conectate e intenta de nuevo."
                 },
                 "authDown": {
-                    "title": "Error During Login:<br>Authentication Server Offline",
-                    "desc": "Mojang's authentication server is currently offline or unreachable. Please wait a bit and try again. You can check the status of the server on <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                    "title": "Error Durante el Inicio de Sesion:<br>Authentication Server Offline",
+                    "desc": "La autenticacion de Mojang está actualmente desconectado o sin acceso. Por favor espere unos minutos e intente de nuevo. Puedes ver el estatus de los servidores en <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
                 },
                 "notPaid": {
-                    "title": "Error During Login:<br>Game Not Purchased",
-                    "desc": "The account you are trying to login with has not purchased a copy of Minecraft.<br>You may purchase a copy on <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                    "title": "Error Durante el Inicio de Sesion:<br>Game Not Purchased",
+                    "desc": "La cuenta con la intentas inciar sesion NO es una copia comprada de Minecraft.<br>Compra tu copia en <a href=\"https://minecraft.net/\">Minecraft.net</a>"
                 },
                 "unknown": {
-                    "title": "Error During Login:<br>Unknown Error"
+                    "title": "Error Durante el Inicio de Sesion:<br>Unknown Error"
                 }
             },
-            "login": "LOGIN",
-            "loggingIn": "LOGGING IN",
-            "success": "SUCCESS",
-            "tryAgain": "Try Again"
+            "login": "INICIAR SESION",
+            "loggingIn": "INICIANDO SESION",
+            "success": "HECHO",
+            "tryAgain": "Intenta de Nuevo"
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Please wait.."
+                "pleaseWait": "Por favor Espere.."
             }
         }
     }
